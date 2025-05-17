@@ -1,102 +1,90 @@
-# Swedish-Cities-Environmental-Overview
-Swedish Cities Environmental Overview is a Power BI dashboard analyzing data from 621 cities in Sweden. It focuses on average temperature, humidity, wind speed, and pressure, helping users explore climate patterns and identify outliers through interactive visuals.
+# 🌍 Swedish Cities Environmental Overview – Power BI Dashboard
 
-# Swedish Cities Environmental Overview
+![Dashboard Screenshot](Swedish_Cities_Overview.jpg)
 
-![Dashboard Screenshot](Swedish Cities Environmental Overview.jpg ).
+**Swedish Cities Environmental Overview** is an interactive Power BI dashboard analyzing environmental data from **621 cities** across Sweden. It focuses on **temperature, humidity, wind speed**, and **atmospheric pressure**, enabling users to explore patterns, detect anomalies, and derive actionable insights.
 
-[🔗 View the Interactive Power BI Dashboard](Swedish Cities Environmental Overview.pbix)  
-
+🔗 [Download .PBIX File](SwedishCitiesDashboard.pbix)  
 
 ---
 
-## Project Overview
+## 📊 Project Highlights
 
-**Swedish Cities Environmental Overview** is a Power BI dashboard analyzing data from **621 cities** in Sweden. It focuses on average **temperature**, **humidity**, **wind speed**, and **atmospheric pressure**, helping users explore climate patterns and identify environmental outliers through clean, interactive visuals.
+- **Cities Covered**: 621
+- **Avg. Humidity (%):** 73.35% (Total: 45,542.19)
+- **Avg. Temperature (°C):** 7°C (Total: 4,336.95)
+- **Max Wind Speed (m/s):** 12.48
 
-The data is based on daily averages, environmental day transformations, and weekly summaries. It was sourced from the Swedish government datasets via Kaggle, and used purely for learning and practice purposes.
-
----
-
-## About Me
-
-I’m **Sri Charan Ananthula**, a Bio-Technology graduate (2021–2024) from BJR Government Degree College, Osmania University, Hyderabad, India. I currently work as a Talent Acquisition Specialist at Swift Strategic Solutions Inc., Irvine, California, USA.
-
-I'm transitioning into a career as a **Data Analyst**, with a strong interest in **environmental** and **healthcare data analysis**. This project showcases my skills in Power BI and data storytelling, with the goal of attracting opportunities from recruiters, companies, and freelance clients.
-
----
-
-## Key Highlights
-
-📊 **Key Metrics Summary**
-
-- **Average Humidity (%):** 45,542.19 (cumulative — average per city ~73.35%)  
-- **Average Temperature (°C):** 4,336.95 (total — actual average per city ~7°C)  
-- **Maximum Wind Speed (m/s):** 12.48  
-- **Number of Cities:** 621  
-
-🔍 **Detailed Observations**
-
-- 🌡️ **Temperature vs Wind Speed:** Most cities range from 0–10°C; outliers with 15°C show higher wind speeds.
-- 🌬️ **City Highlights:** Åhus and Åkersberga show higher humidity and temperature.
-- 📉 **Variation Chart:** Vislanda, Ytterby, and Växjö show large humidity and wind differences.
-- 🥧 **Temperature Contribution:** Vrigstad (18.13%), Ytterby (14.13%), and Visby (12.18%) have the highest contribution to average temperature.
+### 🔍 Key Visuals
+- **Min Temperature vs Wind Speed Scatterplot**
+- **Humidity, Temperature & Wind Speed by City**
+- **City-wise Contribution to Avg. Temperature (Pie Chart)**
+- **Interactive Filters & City Drilldowns**
 
 ---
 
-## Target Audience
+## 🧠 Insights & Observations
 
-This project is aimed at:
-- Recruiters and hiring managers in data and analytics roles.
-- Companies working in the **environmental** or **healthcare** sectors.
-- Freelancers or clients looking for impactful, well-designed dashboards.
-
----
-
-## Relevant Job Titles
-
-This project aligns with skills required in roles such as:
-
-- **Environmental Data Analyst**  
-- **Business Intelligence Analyst**  
-- **Power BI Developer**
+- 🌡️ **Temperature vs Wind Speed**: Most cities cluster between 0–10°C; warmer cities show higher wind speed.
+- 🌬️ **High Climate Activity**: Åhus & Åkersberga report higher humidity and temperature.
+- 📉 **Variability**: Cities like Vislanda and Växjö show significant variation in humidity vs wind.
+- 🥧 **Top Contributors to Avg. Temp**:
+  - Vrigstad: 18.13%
+  - Ytterby: 14.13%
+  - Visby: 12.18%
 
 ---
 
-## Tools & Technologies Used
+## 🧰 Tools & Technologies Used
 
-- **Power BI Desktop** – Data modeling and visualization  
-- **Excel** – Data cleaning  
-- **JSON Theme File** – Applied custom visual theme  
-- **Kaggle Datasets** – Source of environmental data (Swedish government)
-
----
-
-## How to Use
-
-1. Open the `SwedishCitiesDashboard.pbix` file using Power BI Desktop.
-2. Use slicers to filter by city or environmental condition.
-3. Explore interactive visuals like bar charts, pie charts, and summary cards.
-4. Replace the dataset or extend it for further analysis if needed.
+- **Power BI Desktop**: Data modeling, DAX, dashboard development
+- **Excel**: Data cleaning & preprocessing
+- **JSON Theme File**: Custom visual theme
+- **Kaggle Datasets**: Swedish environmental data (sourced for learning purposes)
 
 ---
 
-## Future Plans
+## 🎯 Target Job Titles
 
-- Expand this project to include live or real-time weather APIs.
-- Create a similar dashboard for healthcare-related datasets.
-- Use this project as part of a larger **portfolio** for freelancing and job applications.
+This project aligns with skills needed for:
+
+- ✅ Data Analyst
+- ✅ Environmental Analyst
+- ✅ Power BI Developer
+- ✅ Business Intelligence Analyst
+- ✅ Data Visualization Specialist
 
 ---
 
-## Contact
+## 🧩 How to Use
+
+1. Download and open the `.pbix` file in Power BI Desktop.
+2. Use slicers to filter by city or condition.
+3. Hover over visuals to explore data.
+4. Replace the dataset with live data or expand analysis using new fields.
+
+---
+
+## 🚀 Future Enhancements
+
+- Integrate **real-time data via weather APIs**.
+- Build similar dashboards for **healthcare datasets**.
+- Host live dashboards on **Power BI Service or web apps**.
+
+---
+
+## 🙋‍♂️ About Me
 
 **Sri Charan Ananthula**  
-📫 sricharan.ananthula@gmail.com
-🔗 [https://www.linkedin.com/in/sri-charan-021450326/)  
-🌍 Based in India | Open to freelance and full-time roles
+📚 B.Sc. Biotechnology (2021–2024), BJR Govt. Degree College, Osmania University  
+💼 Talent Acquisition Specialist @ Swift Strategic Solutions Inc. – Irvine, CA  
+📈 **Aspiring Data Analyst with a keen interest in environmental and healthcare data**  
+📫 Email: [sricharan.ananthula@gmail.com](mailto:sricharan.ananthula@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sri-charan-021450326/)  
+🌍 Based in India | Open to freelance & full-time data roles  
 
 ---
 
-*Thank you for viewing my project!*
+## 🙏 Thanks for Visiting
 
+If you liked this project, feel free to ⭐️ star the repo, fork it, or connect with me for collaboration or feedback.
