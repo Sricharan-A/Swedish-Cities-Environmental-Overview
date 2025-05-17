@@ -1,6 +1,6 @@
 # 🌍 Swedish Cities Environmental Overview – Power BI Dashboard
 
-![Dashboard Screenshot](Swedish_Cities_Overview.jpg)
+![Dashboard Screenshot](Swedish-Cities-Environmental-Overview.jpg)
 
 **Swedish Cities Environmental Overview** is an interactive Power BI dashboard analyzing environmental data from **621 cities** across Sweden. It focuses on **temperature, humidity, wind speed**, and **atmospheric pressure**, enabling users to explore patterns, detect anomalies, and derive actionable insights.
 
