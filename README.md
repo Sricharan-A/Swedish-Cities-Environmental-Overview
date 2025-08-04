@@ -81,7 +81,7 @@ This project aligns with skills needed for:
 💼 Talent Acquisition Specialist @ Swift Strategic Solutions Inc. – Irvine, CA  
 📈 **Aspiring Data Analyst with a keen interest in environmental and healthcare data**  
 📫 Email: [sricharan.ananthula@gmail.com](mailto:sricharan.ananthula@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sri-charan-021450326/)  
+🔗 [LinkedIn Profile](linkedin.com/in/sricharan-ananthula-021450326)  
 🌍 Based in India | Open to freelance & full-time data roles
 
 ---
